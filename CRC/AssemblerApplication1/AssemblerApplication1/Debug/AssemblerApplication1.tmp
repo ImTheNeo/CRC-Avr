@@ -1,0 +1,56 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.3.300\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>49</LINE></start>
+  <HERE><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>63</LINE></HERE>
+  <read_input><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>295</LINE></read_input>
+  <calculate_crc><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>299</LINE></calculate_crc>
+  <display1><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>322</LINE></display1>
+  <display2><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>355</LINE></display2>
+  <lcd_init_4d><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>87</LINE></lcd_init_4d>
+  <delayTx1mS><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>256</LINE></delayTx1mS>
+  <lcd_write_4><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>221</LINE></lcd_write_4>
+  <delayTx1uS><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>278</LINE></delayTx1uS>
+  <lcd_write_instruction_4d><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>208</LINE></lcd_write_instruction_4d>
+  <lcd_write_string_4d><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>166</LINE></lcd_write_string_4d>
+  <lcd_write_string_4d_01><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>179</LINE></lcd_write_string_4d_01>
+  <lcd_write_string_4d_02><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>189</LINE></lcd_write_string_4d_02>
+  <lcd_write_character_4d><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>199</LINE></lcd_write_character_4d>
+  <delay1uS><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>287</LINE></delay1uS>
+  <delayYx1mS><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>248</LINE></delayYx1mS>
+  <delay1mS><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>264</LINE></delay1mS>
+  <delay1mS_01><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>269</LINE></delay1mS_01>
+  <this><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>306</LINE></this>
+  <sll><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>311</LINE></sll>
+  <e_or><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>308</LINE></e_or>
+  <exit><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>318</LINE></exit>
+  <display_loop><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>331</LINE></display_loop>
+  <display_exit><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>350</LINE></display_exit>
+  <display_1><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>338</LINE></display_1>
+  <display_0><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>344</LINE></display_0>
+  <show_sayi><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>361</LINE></show_sayi>
+  <show_char><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>363</LINE></show_char>
+  <display2_exit><FILE>C:\Users\asus\Desktop\2256006_CNG336_LAB2\CRC\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>365</LINE></display2_exit>
+ </LABELS>
+</ASSEMBLER_INFO>
